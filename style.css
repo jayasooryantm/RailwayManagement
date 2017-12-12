@@ -1,0 +1,168 @@
+
+body
+{
+    background-color: #131212;
+
+}
+
+#box
+{
+  background-image: url("6img.jpg");
+  background-size: cover;
+  width: 1600px;
+  height: 100%;
+  margin:0px;
+  padding: 0px;
+  box-shadow: 2px 2px 20px #b4b4b4;
+}
+
+#navbar
+{
+  background-color: rgba(0, 0, 0, .5);
+  width:1600px;
+  height: 60px;
+  margin: 0px;
+  text-align: center;
+  padding-top: 10px;
+   text-shadow: 3px 3px 5px #000000;
+ }
+ #navbar :link, #navbar :visited
+ {
+     text-decoration: none;
+     color: white;
+     text-shadow: 5px 5px 5px #000000;
+
+ }
+
+#switch1
+ {
+   height: 35px;
+   float: left;
+   color: white;
+   font-size: 26px;
+   font-family: Centaur;
+   padding-left: 30px;
+   padding-top: 10px;
+  }
+
+#switch2
+{
+  height: 35px;
+  float: right;
+  color:white;
+  font-size: 14px;
+  font-family:arial;
+  padding-right: 150px;
+  padding-top: 15px;
+ }
+
+#footer
+{
+    background-color: rgba(0, 0, 0,.5);
+    width: 1600px;
+    height: 60px;
+    color: white;
+    position: absolute;
+    top: 850px;
+    font-size: 18px;
+    font-family: Papyrus;
+
+}
+
+#note
+{
+    color: white;
+    font-size: 50px;
+    font-family: Eras ITC;
+    position: relative;
+    top: 300px;
+    text-shadow: 5px 5px 5px  #1c1b1b;
+}
+
+#button
+{
+    width: 150px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: block;
+    float: left;
+    position: relative;
+    left: 450px;
+    top: 350px;
+    font-family: arial;
+    color: white;
+    text-shadow: 3px 3px 5px #000000;
+    text-align: center;
+    padding-top: 15px;
+    border: 2px;
+    border-radius: 20px;
+    margin-left: 20px;
+    box-shadow: 3px 3px 5px #000000;
+}
+
+#button:hover
+{
+    width: 150px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: block;
+    float: left;
+    position: relative;
+    left: 450px;
+    top: 350px;
+    font-family: arial;
+    color: white;
+    text-shadow: 3px 3px 5px #000000;
+    text-align: center;
+    padding-top: 15px;
+    border: 2px;
+    border-radius: 20px;
+    margin-left: 20px;
+    box-shadow: inset 5px 5px 20px black;
+}
+
+#Query
+{
+    position: relative;
+    top: 200px;
+    color: white;
+    text-shadow: 3px 3px 5px #000000;
+    font-family: arial;
+    font-size: 20px;
+
+}
+#textput
+{
+    height:50px;
+    width: 300px;
+    border: none;
+    background-color: rgba(0,0,0,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
+
+#textput2
+{
+    height:50px;
+    width: 300px;
+    border: none;
+    background-color: rgba(0,0,0,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
+
+#sub
+{
+    height:50px;
+    width: 100px;
+    border: none;
+    background-color: rgba(0,0,0,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}

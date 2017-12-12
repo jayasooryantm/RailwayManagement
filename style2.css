@@ -1,0 +1,73 @@
+body
+{
+    background-color:
+}
+
+#small
+{
+    width: 500px;
+    height: 550px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;;
+    position: relative;
+    top: 200px;
+    background-image: url(4img.jpg);
+    background-size: cover;
+    color: black;
+    box-shadow: 10px 10px 20px #b4b4b4;
+}
+
+#input{
+    height:50px;
+    width: 300px;
+    border: none;
+    background-color: rgba(0,0,0,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
+
+#small label
+{
+    font-size: 35px;
+    font-family: papyrus;
+    float: left;
+    padding: 15 30px;
+}
+
+.spl{
+    height:50px;
+    width: 100px;
+    border: none;
+    background-color: rgba(0,0,0,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
+
+#input:hover
+{
+    height:50px;
+    width: 300px;
+    border: none;
+    background-color: rgba(255,255,255,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
+
+.spl:hover
+{
+    height:50px;
+    width: 100px;
+    border: none;
+    background-color: rgba(255,255,255,.5);
+    padding:0 10px;/*don't start input text directly from the edge*/
+    border-radius: 30px;
+    color: white;
+    font-family: papyrus;
+}
