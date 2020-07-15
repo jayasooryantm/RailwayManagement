@@ -1,5 +1,5 @@
 # RailwayManagement
-As part of mini project devoloped a web page that executes few queries related to railway.
+A mini project devoloped using HTML, CSS web page that executes few mySQL queries related to railway database.
 
 login.html --> landing page
 
